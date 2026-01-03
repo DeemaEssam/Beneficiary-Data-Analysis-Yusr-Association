@@ -8,7 +8,4 @@ The dashboard enables:
 - Analysis of the most requested types of family counseling services
 - Measurement of initiative impact through the number of beneficiaries per initiative
 
-<img src="https://github.com/user-attachments/assets/32f92dd8-645c-4b32-9f3f-c2d3d76beeb1" width="900">
-
-
-![Image](https://github.com/user-attachments/assets/32f92dd8-645c-4b32-9f3f-c2d3d76beeb1)
+<img src="https://github.com/user-attachments/assets/32f92dd8-645c-4b32-9f3f-c2d3d76beeb1" width="800">
